@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliawaefler
-- 👀 I’m interested in architecture, BIM, engineering, construction, python, but also sports like jiu jitsu and wakeboarding.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in architecture, BIM, engineering, construction, python, but also sports like mma, jiu jitsu and wakeboarding.
+- 🌱 I am learning python.
 - 💞️ I’m looking to collaborate on projects for BIM or BIM2FM. 
 - 📫 How to reach me: elia.waefler@gmail.com 
 
